@@ -1,7 +1,6 @@
 # Portfolio
-# 👋 Hi
+# 👋 Hello！
 
-🎓 M.S. in Computer Science
 🧠 Focus: AI, Medical Imaging, Computer Vision  
 
 ---
@@ -10,12 +9,9 @@
 
 ### Languages
 - Python
-- C++
-- Java
 
 ### Frameworks & Libraries
 - PyTorch
-- TensorFlow
 - OpenCV
 
 ### Tools & Systems
@@ -45,6 +41,7 @@
 ### 🧠 Extension for Qpath
 - integrateing Glo-In-One v2 pipline
 - Qpath Extension
+
 🔗 Project Link: [https://github.com/poleonia/Segmentation-Extension-for-Qupath]
 
 ---
